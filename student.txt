@@ -3,3 +3,4 @@ Department: CSE
 Year: Second Year
 Subject: Git
 Experiment: Repository History Audit
+Purpose: Track and audit repository changes
